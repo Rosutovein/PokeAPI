@@ -1,7 +1,7 @@
 # Application Pokemon: PokeAPI
 
 ## Créateur
-Aleandre Piga, étudiant en 3ième année à l'école d'ingénieur ESIEA
+Aleandre Piga, étudiant en 3ème année à l'école d'ingénieur ESIEA
 
 ## Présentation
 Projet consistant en la création d'une application android codé en Java sur l'univers de Pokemon.
